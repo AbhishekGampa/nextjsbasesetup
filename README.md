@@ -105,13 +105,12 @@ nextjsbasesetup/
 ```
 {
   "@types/node": "^20.0.0",
-  "@types/react": "^18.0.0",
-  "@types/react-dom": "^18.0.0",
-  "autoprefixer": "^10.0.0",
-  "eslint": "^8.0.0",
+  "@types/react": "^19",
+  "@types/react-dom": "^19",
+  "eslint": "^9",
   "eslint-config-next": "^15.0.0",
   "postcss": "^8.0.0",
-  "tailwindcss": "^3.0.0",
+  "tailwindcss": "^4.0.0",
   "typescript": "^5.0.0"
 }
 ```
