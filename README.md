@@ -95,9 +95,9 @@ nextjsbasesetup/
 **Production Dependencies:**
 ```
 {
-  "next": "^15.0.0",
-  "react": "^18.0.0",
-  "react-dom": "^18.0.0"
+  "next": "^15.4.3",
+  "react": "^19.1.0",
+  "react-dom": "^19.1.0"
 }
 ```
 
