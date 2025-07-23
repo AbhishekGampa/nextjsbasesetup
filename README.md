@@ -23,7 +23,7 @@ A production-ready Next.js starter template with TypeScript, Tailwind CSS, and m
 ## 🚀 Quick Start
 
 ### Prerequisites
-- **Node.js**: Version 18.17.0 or higher
+- **Node.js**: Version 20.0.0 or higher
 - **npm**: Version 9.x or higher
 - **Git**: Latest version
 
