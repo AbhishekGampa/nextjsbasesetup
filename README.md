@@ -401,7 +401,7 @@ npm run lint         # Check code quality
 git push origin main # Auto-deploy to Vercel
 vercel --prod        # Manual deployment
 ```
-
+```
 **Live Demo:** [Your Vercel URL will appear here after deployment]
 
 **Repository:** https://github.com/GampaAbhishek/nextjsbasesetup
