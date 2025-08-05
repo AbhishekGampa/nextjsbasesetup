@@ -23,7 +23,7 @@ A production-ready Next.js starter template with TypeScript, Tailwind CSS, and m
 ## 🚀 Quick Start
 
 ### Prerequisites
-- **Node.js**: Version 20.0.0 or higher
+- **Node.js**: Version 18.17.0 or higher
 - **npm**: Version 9.x or higher
 - **Git**: Latest version
 
@@ -95,9 +95,9 @@ nextjsbasesetup/
 **Production Dependencies:**
 ```
 {
-  "next": "^15.4.3",
-  "react": "^19.1.0",
-  "react-dom": "^19.1.0"
+  "next": "^15.0.0",
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0"
 }
 ```
 
@@ -105,12 +105,13 @@ nextjsbasesetup/
 ```
 {
   "@types/node": "^20.0.0",
-  "@types/react": "^19",
-  "@types/react-dom": "^19",
-  "eslint": "^9",
+  "@types/react": "^18.0.0",
+  "@types/react-dom": "^18.0.0",
+  "autoprefixer": "^10.0.0",
+  "eslint": "^8.0.0",
   "eslint-config-next": "^15.0.0",
   "postcss": "^8.0.0",
-  "tailwindcss": "^4.0.0",
+  "tailwindcss": "^3.0.0",
   "typescript": "^5.0.0"
 }
 ```
@@ -377,6 +378,10 @@ npm run dev
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
 
 ### 🎯 Quick Commands Reference
@@ -397,7 +402,7 @@ npm run lint         # Check code quality
 git push origin main # Auto-deploy to Vercel
 vercel --prod        # Manual deployment
 ```
-```
+
 **Live Demo:** [Your Vercel URL will appear here after deployment]
 
 **Repository:** https://github.com/GampaAbhishek/nextjsbasesetup
